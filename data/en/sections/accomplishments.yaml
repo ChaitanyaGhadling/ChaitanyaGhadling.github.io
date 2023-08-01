@@ -11,6 +11,14 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: Python for Everybody (5 course Specialization)
+  timeline: "April 2020 - August 2020"
+  organization:
+    name: Coursera/ University of Michigan
+    url: https://www.coursera.org/specializations/python
+  courseOverview: This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.
+  certificateURL: "https://www.coursera.org/account/accomplishments/specialization/certificate/59ZZ9NNU9ERS"
+  
 - name: "Machine Learning A-Z: Hands-on Python and R in Data Science" 
   timeline: "March 2021 - August 2021"
   organization:
@@ -40,16 +48,10 @@ accomplishments:
   organization:
     name: Microsoft
     url: https://trainingsupport.microsoft.com/en-us/mcp/forum/all/mta-introduction-to-programming-using-javascript/bbb6aea6-f151-4d4d-bcac-b8169bc37d27
-  courseOverview: 
+  courseOverview: "OfficIal Microsoft Technology Associate Certification for Introduction to JavaScript. Includes Java Script and NodeJS concepts."
   certificateURL: /files/microsoft-js.pdf
 
-- name: Python for Everybody (5 course Specialization)
-  timeline: "April 2020 - August 2020"
-  organization:
-    name: Coursera/ University of Michigan
-    url: https://www.coursera.org/specializations/python
-  courseOverview: This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.
-  certificateURL: "https://www.coursera.org/account/accomplishments/specialization/certificate/59ZZ9NNU9ERS"
+
 
   
  
