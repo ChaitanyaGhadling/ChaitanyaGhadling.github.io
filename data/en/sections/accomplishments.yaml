@@ -33,7 +33,7 @@ accomplishments:
     name: SOFTECH Data Secutities
     url: https://softtechdata.com/
   courseOverview: "This was a training program collaborated with our Undergraduate College to train students on AWS services. The services taught were for Cloud Practitioner foundational level. Services taught: S3, EC2, VPC, Load Balancing, Auto Scaling, EBS, IAM and more."
-  certificateURL: "https://example.com"
+  certificateURL: files/aws-certificate.pdf
 
 - name: Microsoft MTA 98–382 (Introduction to Programming Using Javascript)
   timeline: "Nov 2019 - Jan 2020"
