@@ -48,7 +48,7 @@ resourceLinks:
 badges:
 - type: soft-skill-indicator
   name: Problem Solving
-  percentage: 95
+  percentage: 90
   color: green
 
 - type: soft-skill-indicator
@@ -58,7 +58,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Continuous Learning
-  percentage: 90
+  percentage: 95
   color: blue
 
 - type: soft-skill-indicator
