@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: M.S in Data Science
+  icon: fa-graduation-cap
+  timeframe: 2021-2023
+  institution:
+    name: New Jersey Institute of Technology
+    url: "https://www.njit.edu/"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 3.85
+    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    #showGrades: true
+    collapseAfter: 5
+    courses:
+    - name: Advance Database Management System
+    - name: Deep Learning
+    - name: Data Analysis with R
+    - name: Machine Learning
+    - name: Data Mining
+    - name: Statitics
+    - name: Big Data
+    - name: Data Visualization & Interpretation
+- name: B.E in Computer Engineering
+  icon: fa-university
+  timeframe: 2017-2021
+  institution:
+    name: Dr. D.Y.Patil School of Engineering. 
+    url: "https://adypsoe.in/"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 8
+    outOf: 10
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    #showGrades: true
+    collapseAfter: 5
+    courses:
+    - name: Data Structures and Algorithm
+    - name: Database Management and Design 
+    - name: Object Oriented Programming
+    - name: Operating System
+    - name: Artificial Intelligence
+    - name: Network Design
+    - name: Software Project Management
+  

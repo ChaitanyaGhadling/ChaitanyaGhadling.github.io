@@ -1,0 +1,18 @@
+# some information about you
+name: "Chaitanya Ghadling"
+nickname: "Chaitanya"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "chaitanyaghadling@gmail.com"
+  phone: "+1 (862) 622-9631"
+  github: ChaitanyaGhadling
+  linkedin: chaitanyaghadling
+
+# some summary about what you do
+summary:
+  - I am a Data Science Enthusist.
+  - I love exploring data.
+  - I love to work with some fun projects.

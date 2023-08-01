@@ -1,0 +1,95 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Data Analysis
+  filter: "Data Analysis"
+- name: Machine Learning/ Deep Learning
+  filter: "AI" 
+- name: Database Management
+  filter: "SQL"
+- name: Software Development
+  filter: "software"
+
+# your projects
+projects:
+- name: Centralized Database
+  logo: /images/sections/projects/streamlit.png
+  role: Contributer
+  timeline: "June 2022 - August 2022"
+  url: https://centraldatabase.streamlit.app/
+  summary: A Data Analysis project developed for the GCB services to get critical KPIs. 
+  tags: ["Data Analysis","Python","AWS RDS","SQL", "Streamlit"]
+
+- name: Text to Image Conversion
+  logo: /images/sections/projects/pytorch.png
+  role: Contributor
+  timeline: "June 2020 - Feb 2021"
+  repo: https://github.com/ChaitanyaGhadling/AttentionGAN # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Converts the text description of birds into realistic fake images.
+  tags: ["AI", "Pytorch", "GANs", "NLP", ]
+
+- name: Fake News Detection
+  logo: /images/sections/projects/tensorflow.png
+  role: Developer
+  timeline: "November 2021"
+  repo: https://github.com/ChaitanyaGhadling/FakeNewsDetection
+  #url: ""
+  summary: Predicting fake jobs on textual data distingusing between fradualent and non-fradulent job posting.
+  tags: ["AI","NLP", "Random Forest"]
+
+- name: Twitter Sentiment Analysis
+  role: Developer
+  timeline: "Jan 2022"
+  repo: https://github.com/ChaitanyaGhadling/TwitterSentimentAnalysis
+  summary: Binary Classification of tweets into positive or negative sentiment. 
+  tags: ["AI","NLP", "Py-Spark", "Tweepy"]
+
+- name: Crime in NYC visualization
+  logo: /images/sections/projects/tableau.png
+  role: Contributer
+  timeline: "November 2022 - December 2022"
+  repo: https://github.com/ChaitanyaGhadling/TableauProject
+  summary: A Data Analysis project developed for the GCB services to get critical KPIs. 
+  tags: ["Data Analysis","Tableau","Pandas","Visualization"]
+
+- name: Library Monitoring System
+  logo: /images/sections/projects/toha.png
+  role: Contributer
+  timeline: "Aug 2020 - Oct 2020"
+  repo: https://github.com/ChaitanyaGhadling/Yash-Agency-App
+  summary: A student monitoring system that was implemented in the college library.
+  tags: ["software","Java","JavaFx","SQL"]
+
+- name: Java Projects
+  logo: /images/sections/projects/java.png
+  role: Developer
+  timeline: "October 2022"
+  repo: https://github.com/ChaitanyaGhadling/JavaProjects
+  #url: ""
+  summary: 3 prototype management systems developed in Java with SQL Database.
+  tags: ["software", "Java", "SQL"]
+
+- name: Inventory Management System
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "Aug 2020 - Oct 2020"
+  repo: https://github.com/ChaitanyaGhadling/Yash-Agency-App
+  summary: A inventory management system developed using python for family business.
+  tags: ["software","Python","PyQt5","SQL"]
+
+
+
+
+
