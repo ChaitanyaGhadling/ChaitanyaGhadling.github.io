@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Jr. Data Engineer | Recent Graduate
+designation: Data Engineer | Data Analyst | ML Engineer
 # your company information
 company:
   #name: Example Co.
@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a **Friendly and Passionate** Engineer, recently graduated with **M.S** in Data Science. Having spent the last 2 years honing my skills in **Data Analysis, Database Management, Data Visualization, Machine Learning/Deep Learning**, I am now looking to join a team where I can contribute and provide value.'
+summary: 'I am a **Dynamic and Passionate** Engineer, recently graduated with **M.S** in Data Science. Having spent the last 2 years honing my skills in **Data Analysis, Database Management, Data Visualization, Machine Learning/Deep Learning**, I am now looking to join a team where I can contribute and provide value.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
