@@ -17,16 +17,16 @@ experiences:
     # company overview
     #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
   positions:
-  - designation: Research Assistant Developer
+  - designation: AI/ML Engineer
     start: April 2023
-    end: May 2023
+    end:
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Assisted in the development of an **image inpainting** module for a 3D video conferencing tool, utilizing **PyTorch Lightning** module for efficient and scalable model training in a distributed environment.
-    - Implemented advanced image inpainting techniques, including networks like **Lama** based on **Fourier Transformers**, to achieve high-quality results in the inpainting task.
-    - Researched extensively on image inpainting algorithms and experiments to evaluate different algorithms including **GANs** and provided recommendations for performance improvements.
+    - Developing an **image inpainting** module for a 3D video conferencing tool, utilizing **PyTorch Lightning** module for efficient and scalable model training in a distributed environment.
+    - Implementing advanced Deep Learning techniques, including networks like **Lama** based on **Fourier Transformers**, to achieve high-quality results in the inpainting task.
+    - Researched extensively on various algorithms providing recommendations for performance improvements.
     - Worked closely with a PhD student to seamlessly integrate the changes into the existing software architecture, ensuring smooth functionality and enhanced performance.
 
 - company:
