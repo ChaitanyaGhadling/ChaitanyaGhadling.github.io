@@ -89,6 +89,14 @@ projects:
   repo: https://github.com/ChaitanyaGhadling/Yash-Agency-App
   summary: A inventory management system developed using python for family business.
   tags: ["software","Python","PyQt5","SQL"]
+  
+  - name: GeoLocation Tracking
+  logo: /images/sections/projects/toha.png
+  role: Developer
+  timeline: "Sept 2023"
+  #repo: https://github.com/ChaitanyaGhadling/Yash-Agency-App
+  summary: Mobile App developed for both Android and IOS using Flutter for tracking location even in background periodically. 
+  tags: ["software","Flutter","Node.js","AWS","SQL"]
 
 
 
