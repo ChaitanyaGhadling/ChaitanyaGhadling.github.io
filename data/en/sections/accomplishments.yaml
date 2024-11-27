@@ -1,46 +1,51 @@
 # section information
 section:
-  name: Accomplishments
+  name: Accomplishments / Certifications
   id: accomplishments
   enable: true
-  weight: 9
+  weight: 8
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
-
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
-  organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+  - name: Python for Everybody (5 course Specialization)
+    timeline: "April 2020 - August 2020"
+    organization:
+      name: Coursera/ University of Michigan
+      url: https://www.coursera.org/specializations/python
+    courseOverview: This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.
+    certificateURL: "https://www.coursera.org/account/accomplishments/specialization/certificate/59ZZ9NNU9ERS"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
-  organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+  - name: "Machine Learning A-Z: Hands-on Python and R in Data Science"
+    timeline: "March 2021 - August 2021"
+    organization:
+      name: Udemy
+      url: https://www.udemy.com/course/machinelearning/
+    courseOverview: This course provides complete understanding of how to implement Machine Learning and basic Deep Learning Algorithms. It is taught in both Python as well as R. It contains all supervised as well as unsupervised ML algorithms for regression, classification and clustering tasks. It trains to make robust ML models knowing which Machine Learning Model to choose for each problem.
+    certificateURL: /files/udemy-ml.pdf
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
-  organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+  - name: Neural Networks and Deep Learning
+    timeline: "November 2020"
+    organization:
+      name: Coursera
+      url: https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning&utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_deep-learning_deeplearning-ai_FTCOF_specializations_country-US-country-CA&campaignid=904733485&adgroupid=148411448815&device=c&keyword=&matchtype=&network=g&devicemodel=&adposition=&creativeid=654837734386&hide_mobile_promo&gclid=CjwKCAjwt52mBhB5EiwA05YKo3k_ClrKODAjUvSCDy1DX--IugSgA2k4mIeWTQLwFPviD0g54eRzkRoCXFAQAvD_BwE
+    courseOverview: "In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications."
+    certificateURL: "https://www.coursera.org/account/accomplishments/certificate/QQ7Z5WLE5EN9"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
-  organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, multithreading topics.
-  certificateURL: "https://example.com"
- 
+  - name: AWS Certified Solutions Architect Associate certificate training
+    timeline: "August 2019 - October 2019"
+    organization:
+      name: SOFTECH Data Secutities
+      url: https://softtechdata.com/
+    courseOverview: "This was a training program collaborated with our Undergraduate College to train students on AWS services. The services taught were for Cloud Practitioner foundational level. Services taught: S3, EC2, VPC, Load Balancing, Auto Scaling, EBS, IAM and more."
+    certificateURL: files/aws-certificate.pdf
 
+  - name: Microsoft MTA 98–382 (Introduction to Programming Using Javascript)
+    timeline: "Nov 2019 - Jan 2020"
+    organization:
+      name: Microsoft
+      url: https://trainingsupport.microsoft.com/en-us/mcp/forum/all/mta-introduction-to-programming-using-javascript/bbb6aea6-f151-4d4d-bcac-b8169bc37d27
+    courseOverview: "Official Microsoft Technology Associate Certification for Introduction to JavaScript. Includes Java Script and NodeJS concepts."
+    certificateURL: /files/microsoft-js.pdf
