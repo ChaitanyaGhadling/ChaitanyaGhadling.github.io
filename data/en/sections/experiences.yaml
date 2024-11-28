@@ -24,10 +24,14 @@ experiences:
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Developing an **image inpainting/reconstruction** module for a 3D video conferencing tool, utilizing networks like Lama, GANs to achieve high-quality images module for efficient and scalable model training in a distributed environment.
-          - Conducted extensive experiments with diverse **loss functions** and evaluation metrics optimizing performance, ultimately achieving results on par with state-of-the-art models.
-          - Reduced dependency issue resolution time by 30% by efficiently troubleshooting and configuring complex libraries like **PyTorch3D, Open3D, and Hydra**, utilizing Anaconda virtual environment, ensuring smooth working of the model pipeline.
-          - Worked closely with a PhD student to seamlessly integrate the changes into the existing software architecture, ensuring smooth functionality and enhanced performance.
+          - Developed a novel image rendering module for a 3D video conferencing tool, utilizing various Deep Learning
+          tools like Pytorch and Tensorflow for efficient and scalable model training in a distributed environment.
+          - Implemented advanced Deep Learning techniques like GANs, U-Net, Encoder/Decoder framework to achieve
+          high-quality results in the inpainting task.
+          - Created a custom dataset and dataLoader from scratch tailored to model requirements for better results.
+          - Collaborated closely with PhD students to research state of art algorithms and seamlessly integrate novel
+          methodologies into existing software architecture, ensuring smooth functionality and enhanced performance.
+
 
   - company:
       name: GCB Services.
