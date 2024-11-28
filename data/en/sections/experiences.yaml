@@ -29,7 +29,7 @@ experiences:
           - Utilized **AWS S3** as a data lake to store raw and processed data, ensuring scalability, durability, and cost-effectiveness.
           - Leveraged **AWS Glue** for data cataloging, metadata management, and ETL job orchestration, seamlessly integrating with the **Apache Airflow** workflow.
           - Utilized **Apache Spark** for efficient and scalable data processing, enabling complex analytics transformations.
-          - Created data models for final data storage using AWS RDS (Relational Database Service) for structured data and Amazon Redshift for data warehousing.
+          - Created data models for final data storage using **AWS RDS** (Relational Database Service) for structured data and **Amazon Redshift** for data warehousing.
           - Implemented monitoring and logging solutions using **AWS CloudWatch and AWS CloudTrail** to track pipeline performance metrics, identify bottlenecks, and optimize data processing workflows for enhanced efficiency. 
           - Containerized the entire ETL pipeline environment using **Docker**, facilitating seamless deployment and scalability across different environments. 
           - Collaborated closely with cross-functional teams including data analysts, developers, and stakeholders to gather requirements, implement solutions, and ensure alignment with business objectives.
@@ -48,8 +48,8 @@ experiences:
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Developed a novel image rendering module for a 3D video conferencing tool, utilizing various Deep Learning tools like Pytorch and Tensorflow for efficient and scalable model training in a distributed environment.
-          - Implemented advanced Deep Learning techniques like GANs, U-Net, Encoder/Decoder framework to achieve high-quality results in the inpainting task.
+          - Developed a novel image rendering module for a 3D video conferencing tool, utilizing various Deep Learning tools like **Pytorch and Tensorflow** for efficient and scalable model training in a distributed environment.
+          - Implemented advanced Deep Learning techniques like **GANs, U-Net, Encoder/Decoder** framework to achieve high-quality results in the inpainting task.
           - Created a custom dataset and dataLoader from scratch tailored to model requirements for better results.
           - Collaborated closely with PhD students to research state of art algorithms and seamlessly integrate novel methodologies into existing software architecture, ensuring smooth functionality and enhanced performance.
   - company:
