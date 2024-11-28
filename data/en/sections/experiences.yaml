@@ -11,6 +11,39 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: Frontier Communications.
+      url: "https://www.frontier.com"
+      location: Dallas, TX
+      # company overview
+      #overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    positions:
+      - designation: Data Engineer
+        start: April 2023
+        end: 
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+           - Designed, implemented, and maintained an ETL pipeline using Apache Kafka, Airflow, Spark, Docker a
+            AWS services.
+          - Implemented Kafka topics, consumers, and Kafka Connect for real-time data ingestion, ensuring effici
+          data flow and processing within the ecosyste
+           - Utilized AWS S3 as a data lake to store raw and processed data, ensuring scalability, durability, and
+          cost-effectivenes
+           - Leveraged AWS Glue for data cataloging, metadata management, and ETL job orchestration, seamlessly
+          integrating with the Apache Airflow workf
+           - Utilized Apache Spark for efficient and scalable data processing, enabling complex analytics 
+          transformations.
+           - Created data models for final data storage using AWS RDS (Relational Database Service) for structured da
+          and Amazon Redshift for data warehousing.
+           - Implemented monitoring and logging solutions using AWS CloudWatch and AWS CloudTrail to track pipeline
+          performance metrics, identify bottlenecks, and optimize data processing workflows for enhanced effici
+           - Containerized the entire ETL pipeline environment using Docker, facilitating seamless deployment and
+          scalability across different environment
+          - Collaborated closely with cross-functional teams including data analysts, developers, and stakeholders to
+          gather requirements, implement solutions, and ensure alignment with business objectives.
+
+  - company:
       name: New Jersey Institute Of Technology.
       url: "https://www.njit.edu"
       location: Newark, NJ
@@ -19,7 +52,7 @@ experiences:
     positions:
       - designation: AI/ML Engineer
         start: April 2023
-        end:
+        end: July 2024
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
@@ -31,8 +64,6 @@ experiences:
           - Created a custom dataset and dataLoader from scratch tailored to model requirements for better results.
           - Collaborated closely with PhD students to research state of art algorithms and seamlessly integrate novel
           methodologies into existing software architecture, ensuring smooth functionality and enhanced performance.
-
-
   - company:
       name: GCB Services.
       url: "http://gcbservices.com/"
