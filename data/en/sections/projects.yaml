@@ -97,3 +97,11 @@ projects:
     #repo: https://github.com/ChaitanyaGhadling/Yash-Agency-App
     summary: Mobile App developed for both Android and IOS using Flutter for tracking location even in background periodically.
     tags: ["software", "Flutter", "Node.js", "AWS", "SQL"]
+  - name: Low Vision Mobility Training
+    logo: /images/sections/projects/toha.png
+    role: Developer
+    timeline: "November 2023 - December 2024"
+    repo: https://sites.google.com/njit.edu/nih-low-rehab/
+    summary: Developed a Unity game training program to help low vision patients train in virtual reality for rehabilitation.
+    tags: ["software", "C#", "Unity", "SQL", "VR", "Game Development"]
+
