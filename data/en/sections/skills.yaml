@@ -41,7 +41,7 @@ skills:
 
   - name: Data Analysis / Statistics
     logo: /images/sections/skills/data_analysis.png
-    summary: "Skilled in using ETL and data warehousing tools like **Informatica, Altreyx, Snowflake** and **DataBricks**. Capable of implementing Big Data tools like **Apache Spark, Hadoop, Hive**. Well versed with Statistical concepts for Hypothesis testing, predictive analysis."
+    summary: "Skilled in using ETL and data warehousing tools like **Informatica, Altreyx, Snowflake** and **DataBricks**. Capable of implementing Big Data tools like **Kafka, Apache Spark, Hadoop, Hive**. Well versed with **Statistical** concepts for Hypothesis testing, predictive analysis."
     #url: "https://golang.org/"
 
   - name: Data Visualization
@@ -61,7 +61,7 @@ skills:
 
   - name: Cloud Computing
     logo: /images/sections/skills/cloud.png
-    summary: "Experience in using **AWS** services like **S3, EC2, RDS, Lambda, VPC** as well as **Heroku**."
+    summary: "Experience in using **AWS** services like **S3, EC2, RDS, Lambda, VPC, Glue, Redshift, DynamoDB** as well as **Heroku**."
 
   - name: Operating Systems
     logo: /images/sections/skills/linux.png
