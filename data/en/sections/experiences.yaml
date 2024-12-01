@@ -24,16 +24,15 @@ experiences:
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Designed, implemented, and maintained an ETL pipeline using **Apache Kafka, Airflow, Spark, Docker and AWS** services.
-          - Implemented **Kafka** topics, consumers, and Kafka Connect for real-time data ingestion, ensuring efficient data flow and processing within the ecosystem. 
+          - Designed, implemented, and maintained an ETL pipeline integrating **NetSuite** ERP data with **Apache Kafka, Airflow, Spark, Docker, and AWS** services for seamless data flow and processing.
+          - Configured **Kafka** topics, consumers, and Kafka Connect to enable real-time ingestion of transactional data from NetSuite, ensuring robust and low-latency data pipelines.
           - Utilized **AWS S3** as a data lake to store raw and processed data, ensuring scalability, durability, and cost-effectiveness.
-          - Leveraged **AWS Glue** for data cataloging, metadata management, and ETL job orchestration, seamlessly integrating with the **Apache Airflow** workflow.
+          - Leveraged **AWS Glue** for cataloging NetSuite metadata and orchestrating ETL jobs that transform ERP data into analytics-ready formats.
           - Utilized **Apache Spark** for efficient and scalable data processing, enabling complex analytics transformations.
-          - Created data models for final data storage using **AWS RDS** (Relational Database Service) for structured data and **Amazon Redshift** for data warehousing.
+          - Developed optimized data models for NetSuite-generated structured data, stored in **AWS RDS** and Amazon **Redshift** to support advanced reporting and BI use cases..
           - Implemented monitoring and logging solutions using **AWS CloudWatch and AWS CloudTrail** to track pipeline performance metrics, identify bottlenecks, and optimize data processing workflows for enhanced efficiency. 
           - Containerized the entire ETL pipeline environment using **Docker**, facilitating seamless deployment and scalability across different environments. 
-          - Collaborated closely with cross-functional teams including data analysts, developers, and stakeholders to gather requirements, implement solutions, and ensure alignment with business objectives.
-
+          - Collaborated with data analysts, developers, and NetSuite ERP administrators to gather business requirements, implement data solutions, and ensure alignment with organizational goals.
   - company:
       name: New Jersey Institute Of Technology.
       url: "https://www.njit.edu"
