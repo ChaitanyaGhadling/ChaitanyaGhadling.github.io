@@ -28,10 +28,10 @@ experiences:
           - Configured **Kafka** topics, consumers, and Kafka Connect to enable real-time ingestion of transactional data from NetSuite, ensuring robust and low-latency data pipelines.
           - Utilized **AWS S3** as a data lake to store raw and processed data, ensuring scalability, durability, and cost-effectiveness.
           - Leveraged **AWS Glue** for cataloging NetSuite metadata and orchestrating ETL jobs that transform ERP data into analytics-ready formats.
-          - Utilized **Apache Spark** for efficient and scalable data processing, enabling complex analytics transformations.
-          - Developed optimized data models for NetSuite-generated structured data, stored in **AWS RDS** and Amazon **Redshift** to support advanced reporting and BI use cases..
+          - Incorporated unstructured data, such as logs or external documents, into the pipeline by leveraging AWS S3 as a storage layer and processing it with **Apache Spark**, transforming it into actionable insights alongside structured NetSuite data.
+          - Developed optimized data models for NetSuite-generated structured data, stored in **AWS RDS** and Amazon **Redshift** to support advanced reporting and BI use cases.
+          - 
           - Implemented monitoring and logging solutions using **AWS CloudWatch and AWS CloudTrail** to track pipeline performance metrics, identify bottlenecks, and optimize data processing workflows for enhanced efficiency. 
-          - Containerized the entire ETL pipeline environment using **Docker**, facilitating seamless deployment and scalability across different environments. 
           - Collaborated with data analysts, developers, and NetSuite ERP administrators to gather business requirements, implement data solutions, and ensure alignment with organizational goals.
   - company:
       name: New Jersey Institute Of Technology.
