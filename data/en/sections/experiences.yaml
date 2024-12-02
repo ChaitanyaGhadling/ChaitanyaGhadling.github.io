@@ -58,7 +58,7 @@ experiences:
     positions:
       - designation: Data Engineer
         start: June 2022
-        end: August 2022
+        end: Dec 2022
         responsibilities:
           - Automated daily tasks of the company by developing multiple standalone applications, deployed on **AWS S3**, using **Selenium** and Xlsxwriter, resulting in a 70% reduction in routine workload.
           - Pioneered the company's transition of data storage and analysis from Excel/VBA to **SQL** by designing a centralized database and deploying it on **AWS RDS** Server from scratch.
