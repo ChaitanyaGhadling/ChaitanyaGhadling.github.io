@@ -19,19 +19,18 @@ experiences:
     positions:
       - designation: Data Engineer
         start: April 2023
-        end: 
+        end: Nov 2024
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
           - Designed, implemented, and maintained an ETL pipeline integrating **NetSuite** ERP data with **Apache Kafka, Airflow, Spark, Docker, and AWS** services for seamless data flow and processing.
-          - Configured **Kafka** topics, consumers, and Kafka Connect to enable real-time ingestion of transactional data from NetSuite, ensuring robust and low-latency data pipelines.
+          - Configured **Kafka** topics and consumers for real-time ingestion of transactional data from NetSuite, reducing data latency by **40%** and ensuring robust pipelines.
           - Utilized **AWS S3** as a data lake to store raw and processed data, ensuring scalability, durability, and cost-effectiveness.
           - Leveraged **AWS Glue** for cataloging NetSuite metadata and orchestrating ETL jobs that transform ERP data into analytics-ready formats.
           - Incorporated unstructured data, such as logs or external documents, into the pipeline by leveraging AWS S3 as a storage layer and processing it with **Apache Spark**, transforming it into actionable insights alongside structured NetSuite data.
           - Developed optimized data models for NetSuite-generated structured data, stored in **AWS RDS** and Amazon **Redshift** to support advanced reporting and BI use cases.
-          - 
-          - Implemented monitoring and logging solutions using **AWS CloudWatch and AWS CloudTrail** to track pipeline performance metrics, identify bottlenecks, and optimize data processing workflows for enhanced efficiency. 
+          - Implemented monitoring and logging solutions using **AWS CloudWatch and AWS CloudTrail** to track pipeline performance metrics, identify bottlenecks, and optimize data processing workflows resulting in a 25% improvement in pipeline efficiency.  
           - Collaborated with data analysts, developers, and NetSuite ERP administrators to gather business requirements, implement data solutions, and ensure alignment with organizational goals.
   - company:
       name: New Jersey Institute Of Technology.
